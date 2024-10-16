@@ -1,4 +1,4 @@
-public class Division extends calculator {
+public class Division extends Calculator {
     
 
 public Double compute(double a, double b){
